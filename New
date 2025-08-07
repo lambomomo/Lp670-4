@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Le rêve de Momo27 - LP670-4 SV</title>
+</head>
+<body style="background-color:black; color:white; text-align:center;">
+  <h1>LP670-4 Super Veloce ❤️</h1>
+  <p>Le rêve de Momo27</p>
+
+  <img src="media/murci1.jpg" alt="Murciélago SV" width="80%">
+  <img src="media/murci2.jpg" alt="Murciélago SV 2" width="80%">
+
+  <h2>🎧 Le son de la Murciélago SV</h2>
+  <video controls width="80%">
+    <source src="media/sound.mp4" type="video/mp4">
+    Ton navigateur ne supporte pas la vidéo 😢
+  </video>
+</body>
+</html>
